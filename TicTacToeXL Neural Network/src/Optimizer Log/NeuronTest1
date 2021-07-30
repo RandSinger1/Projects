@@ -1,0 +1,6 @@
+A neuron count of 16 yielded a time of 14.921175956726074 and an accuracy of  0.192
+A neuron count of 32 yielded a time of 18.854134559631348 and an accuracy of  0.126
+A neuron count of 64 yielded a time of 22.666414737701416 and an accuracy of  0.128
+A neuron count of 128 yielded a time of 33.631428956985474 and an accuracy of  -0.02
+A neuron count of 256 yielded a time of 78.0852644443512 and an accuracy of  0.094
+A neuron count of 512 yielded a time of 264.67239689826965 and an accuracy of  0.074

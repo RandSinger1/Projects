@@ -1,0 +1,9 @@
+Initializer random_uniform yielded a time of 29.636468410491943 and an accuracy of  -0.006
+Initializer random_normal yielded a time of 33.111093282699585 and an accuracy of  0.134
+Initializer glorot_uniform yielded a time of 33.25597929954529 and an accuracy of  0.11
+Initializer TruncatedNormal yielded a time of 33.61723804473877 and an accuracy of  0.054
+Initializer glorot_normal yielded a time of 34.27015733718872 and an accuracy of  0.108
+Initializer zeros yielded a time of 33.12727618217468 and an accuracy of  0.012
+Initializer ones yielded a time of 34.25601816177368 and an accuracy of  0.016
+Initializer orthogonal yielded a time of 33.97410750389099 and an accuracy of  0.042
+Initializer identity yielded a time of 34.13034629821777 and an accuracy of  0.126

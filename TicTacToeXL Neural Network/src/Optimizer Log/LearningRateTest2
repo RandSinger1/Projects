@@ -1,0 +1,10 @@
+A learning rate of 10^(- 11 ) yielded a time of 1098.7000229358673 and an accuracy of  0.086
+A learning rate of 10^(- 10.6 ) yielded a time of 1118.0777580738068 and an accuracy of  0.16
+A learning rate of 10^(- 10.2 ) yielded a time of 1114.7978820800781 and an accuracy of  0.142
+A learning rate of 10^(- 9.8 ) yielded a time of 1141.3035604953766 and an accuracy of  0.078
+A learning rate of 10^(- 9.4 ) yielded a time of 1139.51158285141 and an accuracy of  0.1
+A learning rate of 10^(- 9 ) yielded a time of 1003.0451562404633 and an accuracy of  0.096
+A learning rate of 10^(- 8.6 ) yielded a time of 1003.7761507034302 and an accuracy of  0.064
+A learning rate of 10^(- 8.2 ) yielded a time of 961.615487575531 and an accuracy of  -0.028
+A learning rate of 10^(- 7.8 ) yielded a time of 1080.5502543449402 and an accuracy of  0.134
+A learning rate of 10^(- 7.4 ) yielded a time of 956.5398442745209 and an accuracy of  0.12

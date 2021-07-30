@@ -1,0 +1,10 @@
+10 epochs yielded a time of 27.905189752578735 and an accuracy of  0.174
+30 epochs yielded a time of 104.09272623062134 and an accuracy of  0.056
+50 epochs yielded a time of 160.76842975616455 and an accuracy of  0.13
+70 epochs yielded a time of 226.20208859443665 and an accuracy of  0.112
+90 epochs yielded a time of 285.25842905044556 and an accuracy of  0.152
+110 epochs yielded a time of 348.16398882865906 and an accuracy of  0.064
+130 epochs yielded a time of 409.7597613334656 and an accuracy of  -0.022
+150 epochs yielded a time of 473.1274936199188 and an accuracy of  0.084
+170 epochs yielded a time of 537.0250334739685 and an accuracy of  0.134
+190 epochs yielded a time of 598.0771048069 and an accuracy of  0.122

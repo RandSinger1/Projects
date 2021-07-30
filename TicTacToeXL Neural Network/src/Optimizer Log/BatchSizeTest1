@@ -1,0 +1,9 @@
+A batchsize of 2 yielded a time of 6990.8904066085815 and an accuracy of  0.028
+A batchsize of 4 yielded a time of 3721.709889650345 and an accuracy of  0.126
+A batchsize of 8 yielded a time of 1947.6101067066193 and an accuracy of  0.062
+A batchsize of 16 yielded a time of 989.2038774490356 and an accuracy of  0.04
+A batchsize of 32 yielded a time of 535.9580962657928 and an accuracy of  0.048
+A batchsize of 64 yielded a time of 324.95927476882935 and an accuracy of  0.11
+A batchsize of 128 yielded a time of 200.37802839279175 and an accuracy of  0.082
+A batchsize of 256 yielded a time of 133.58012771606445 and an accuracy of  0.148
+A batchsize of 512 yielded a time of 98.82048749923706 and an accuracy of  0.206

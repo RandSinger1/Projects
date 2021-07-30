@@ -1,0 +1,5 @@
+Adam optimizer yielded a time of  80.12725877761841 and an accuracy of  0.134
+SGD optimizer yielded a time of  77.07423734664917 and an accuracy of  0.096
+RMSProp optimizer yielded a time of  87.9723608493805 and an accuracy of  0.122
+Adamax optimizer yielded a time of  87.85520625114441  =and an accuracy of  0.116
+Adagrad optimizer yielded a time of  80.3228771686554 and an accuracy of  0.09
