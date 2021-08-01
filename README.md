@@ -20,3 +20,25 @@ Game play ends when either a player wins the global board or there are no legal 
 
 ![image](https://user-images.githubusercontent.com/74988565/127755586-93234d78-b475-4acd-873f-b4c9c4aec7a4.png)
 
+## Download Instructions ##
+Pull the src folder from the repository and make sure NumPy, TensorFlow, and Tkinter are installed.  Run the display script and the game will start
+
+## Project Structure ##
+miniGame.py: Class that handles the local boards
+game.py: Class that handles the global boards, made up of a 3 x 3 grid of local boards
+Simulate.py: Handles any computer simulation of gameplay, including iterating through simulations
+model.py: Creates and trains the neural network through the data obtained from simulations
+Optimizer.py: Creates many models based on different conditions, depending on user input, to determine the optimal conditions for training the AI
+Display.py: Handles the user interface
+Models: Folder that stores saved neural networks so that AI does not need tobe retrained
+Optimizer Log: Folder that stores past trials, their accuracy, and their time cost
+
+## Gameplay Sample ##
+
+https://user-images.githubusercontent.com/74988565/127756072-4fedb7d0-2d66-4a3a-abbb-2d85cbcd3ff9.mp4
+
+## Future Improvements ##
+This was my first python project, my first TensorFlow project, my first Tkinter project, my first machine learning project, and my first github project so it has its flaws in following convention.  When I started the project, my understanding of how to use a repository was lacking, and so I just did one big upload at the end, there are too many global variables in the scripts, and the AI lacks accuracy due to low computing power and a lack of time.  However, understanding these mistakes will allowe me to be a better programmer in the future.  While the project may not be as polished or efficient as I might have hoped, it taught me a lot of new skills.  The computer may not have learned a lot about TicTacToe, but I know that I learned a lot about the computer
+
+
+
